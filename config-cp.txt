@@ -1,0 +1,7 @@
+temperature
+127.0.0.1
+8080
+/dataPost.cgi
+5
+25.0
+3.0
